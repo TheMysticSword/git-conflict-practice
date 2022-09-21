@@ -1,3 +1,3 @@
 1 3 5 7
-11 17 19
+eleven thirteen seventeen nineteen
 23 29
